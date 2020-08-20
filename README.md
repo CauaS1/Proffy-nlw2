@@ -10,14 +10,6 @@ Proffy é um projeto de dar aulas online, onde os alunos interessados em algum <
 <img src="https://github.com/CauaS1/Proffy-nlw2/blob/master/screenshots/giveclasses.PNG" />
 <img src="https://github.com/CauaS1/Proffy-nlw2/blob/master/screenshots/study.PNG" />
 
-# Funcionalidades
-
-<ul>
-  <li>Contatar Professores</li>
-  <li>Criação de perfil do professor</li>
-  <li>Busca por meio de filtragem </li>
-</ul>
-
 # Tecnologias
 
 <ul>
